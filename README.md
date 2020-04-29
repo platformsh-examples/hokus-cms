@@ -1,14 +1,17 @@
-# Hugo for Platform.sh
+# Hokus CMS for Platform.sh
 
-<p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/hugo/.platform.template.yaml&utm_content=hugo&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
-    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
-</a>
-</p>
 
-This template provides a basic Hugo skeleton.  All files are generated at build time, so at runtime only static files need to be served.
+Hokus is an open-source CMS for Hugo - completely free to use.
 
-Hugo is a static site generator written in Go, using Go's native template packages for formatting.
+Developers love Hugo because of its astonishing speed.
+Content editors love Hokus because it brings the same speed benefit while hiding the complexity of editing raw files to edit a website.
+When you save your content, you can see your updated website in your browser almost instantly.
+
+Hokus is a multi-platform desktop application (Windows, macOS, and Linux are supported). Because it runs on your computer, you can use it even when you are offline.
+Unlike Netlify, Hokus does not assume any infrastructure vendor, meaning that you are free to move your website to another host without losing the user interface you are used to.
+
+
+
 
 ## Services
 
@@ -30,4 +33,5 @@ The following changes have been made relative from initializing a new Hugo proje
 ## References
 
 * [Hugo](https://gohugo.io/)
+* [Hokus CMS](https://www.hokuscms.com/)
 * [Go on Platform.sh](https://docs.platform.sh/languages/go.html)
